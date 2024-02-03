@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mustafa Kemal Özen</h1>
 <h3 align="center">A passionate iOS developer from Turkey</h3>
 
-- 🌱 I’m currently learning **iOS development**
+- 🌱 I’m currently learning **IOS development**
 
 - 📫 How to reach me **kemal.159.11@gmail.com**
 
